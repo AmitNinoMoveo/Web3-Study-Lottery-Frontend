@@ -39,4 +39,4 @@ You will also see any lint errors in the console.
 - Contract address: 0x2c917c72519d9b60215Cc645eb97d6380060b549
 - Deployed Account public key: 0x2c066033F96Eee67e8Af29DeDB2db0e0Ed20ee28
 
-#### See contract repo [https://github.com/AmitNinoMoveo/Web3-Study-Lottery-Contract](here)
+#### See contract repo [here](https://github.com/AmitNinoMoveo/Web3-Study-Lottery-Contract)
